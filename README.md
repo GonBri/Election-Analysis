@@ -36,7 +36,11 @@
 
 #Election-Audtio-Summary
 
-Candidate Diana DeGette: 73.8% (272,892) was the winner of this Election
+* Candidate Diana DeGette: 73.8% (272,892) was the winner of this Election.
+* The scrip could be use for any other election when we update the source file:
+
+![Image 10-2-21 at 2 46 PM](https://user-images.githubusercontent.com/90288638/135731333-918d4b16-7654-4a2d-ac95-dab62191a148.jpg)
+
 
 
 

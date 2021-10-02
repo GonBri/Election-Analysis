@@ -1,5 +1,7 @@
 print("Hello World")
 
-print("Hola Brissa")
+counties = ["Arapahoe","Denver","Jefferson"]
+if counties[1] == 'Denver':
+    print(counties[1])
 
-print("Hola Mundo!!!!")
+    

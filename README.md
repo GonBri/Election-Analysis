@@ -20,7 +20,9 @@
 
 - Which county had the largest number of votes?
 
-![Image 10-2-21 at 2 37 PM](https://user-images.githubusercontent.com/90288638/135731146-6ca3fc24-0b79-40ee-a32c-63f274b6de78.jpg)
+![Image 10-5-21 at 11 30 PM](https://user-images.githubusercontent.com/90288638/136145995-b83081c5-a94f-4642-8b79-5d58ee441576.jpg)
+
+
 
 
 
@@ -31,7 +33,9 @@
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-![Image 10-2-21 at 2 40 PM](https://user-images.githubusercontent.com/90288638/135731192-b9db19fc-5655-48a0-a793-bd5609e8fdb2.jpg)
+![Image 10-5-21 at 11 32 PM](https://user-images.githubusercontent.com/90288638/136145945-849f0d0f-546e-4f21-b6b0-d9cec91d3372.jpg)
+
+
 
 
 #Election-Audtio-Summary
